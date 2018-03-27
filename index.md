@@ -1,3 +1,3 @@
-My Ripo
+My Repo
 Hello all !
 
