@@ -1,0 +1,1 @@
+//Cbbb類別可以存取Caaa類別中protected資料成員或方法,因為Cbbb繼承Caaa
